@@ -47,8 +47,3 @@ Read or watch:
 ### [10. Fix the top header background](./10-index.html)
 
 ### [11. Make the article page responsive](./100-article.html)
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
